@@ -16,6 +16,8 @@
     git clone https://github.com/phich82/mai_scratch.git
 
 ### Write new codes
+    git status
+    
     git add .
 
     git commit -m "add more codes"
